@@ -6,7 +6,7 @@ Este repositorio contiene los archivos y notebooks desarrollados como parte de m
 
 ## Estructura del repositorio
 - **`descriptivos/`**: Carpeta que contiene los Jupyter Notebooks con el análisis descriptivo de los modelos.
-- **`results/`** **: Archivos con la implementaciones de los modelos, incluyendo resultados, métricas de evaluación y gráficos.
+- **`results/`**: Archivos con la implementaciones de los modelos, incluyendo resultados, métricas de evaluación y gráficos.
 - **`README.md`**: Este archivo, que describe el proyecto.
 
 
